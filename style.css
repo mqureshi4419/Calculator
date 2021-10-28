@@ -1,0 +1,49 @@
+#results 
+{
+      font-family: 'typewriter';
+    src: url('fonts/Veteran_Typewriter.ttf') format('woff2'),
+         url('fonts/Veteran_Typewriter.ttf') format('woff');
+}
+
+ 
+ html
+ {
+
+  background-image: url("calc.jpg");
+  text-align: center;
+
+ }
+
+
+ body
+{
+	background-image: url("calc.jpg");
+
+}
+
+
+h1
+
+{
+
+  font-family: 'typewriter';
+    src: url('fonts/Veteran_Typewriter.ttf') format('woff2'),
+         url('fonts/Veteran_Typewriter.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  border-radius: 100px;
+  border-width: 10px;
+
+}
+
+
+
+hr
+
+
+{
+
+  width: 400px;
+
+
+}
